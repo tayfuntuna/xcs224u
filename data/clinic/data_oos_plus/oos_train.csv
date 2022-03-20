@@ -1,101 +1,251 @@
 text,intent
-set a warning for when my bank account starts running low,oos
-a show on broadway,oos
-who has the best record in the nfl,oos
-how do i find the area of a circle,oos
-how many onions do i have on hand,oos
-what is the name of the 13th president,oos
-show me recent activity in my backyard,oos
-how long will it take me to pay off my card if i pay an extra $50 a month over the minimum,oos
-does our bank have free notary,oos
-what were the top stories this week,oos
-can i mix antifreeze with water,oos
-are any earning reports due,oos
-show me the channel guide,oos
-is the pnc bank open,oos
-where does the power steering fluid go,oos
-when was the last time the president visited floridau,oos
-how can i keep my windshield from fogging up in winter,oos
-how do i compute the median of a set of numbers,oos
-what is happening with brexit right nowu,oos
-are there any new companies to look out for,oos
-can you tell me how to compute price per ounce,oos
-how to unclog a drain,oos
-am kind of busy now,oos
-what new reality shows are there for 2019,oos
-what is the purpose or benefit of a cash advance,oos
-how can i root an android phone,oos
-is android better than iphone,oos
-are androids expensive,oos
-how long does it take to become an architect,oos
-who are some famous living architects,oos
-find out for me as to why people get autism,oos
-is autism a genetic disease,oos
-is flu contagious,oos
-is it true that nicotine is harder to kick than heroin,oos
-please inform me on bad habits and overcoming them,oos
-are bad habits closely related with addictions,oos
-does hypnosis work to break bad habits,oos
-king of acid,oos
-suo2,oos
-what university in the united states offers the best biomedical engineering program,oos
-what's the definition of nuclear engineering,oos
-when was electrical engineering created,oos
-what is naval engineering,oos
-is it possible to survive in a black hole,oos
-where do black holes come from,oos
-what are black holes,oos
-what was the final vote count in the brexit referendum,oos
-can you tell me the latest georgia news,oos
-is the brexit finalized yet,oos
-the birds fly with there wings,oos
-how the birds fly,oos
-where does cannabis originate from,oos
-how are my cannabis stocks doing,oos
-is marijuana addictive,oos
-should i hit or stay at 17 in blackjack,oos
-what game has the best odds at a casino,oos
-what's the best opening gambit for a game of chess,oos
-what side in chess has the general advantage,oos
-how do i get better at go,oos
-how high does my sat score need to be to get into harvard,oos
-what'll an education at boulder state college run,oos
-what's the average gpa to get into yale,oos
-what act score is considered good,oos
-what cryptocurrency gained the most in 2018,oos
-what's the best crypto to buy in 2019,oos
-how is crypto legal,oos
-are there any cybersecurity jobs available in pittsburgh,oos
-how many firewalls should i have and what type,oos
-how can i breach a network,oos
-how does cybersecurity work,oos
-how many countries in the world are democracies,oos
-is the united states a democracy,oos
-which nations are not democratic,oos
-how does a democracy work,oos
-please get me my wheelchair,oos
-what's the best dog food to feed my puppy,oos
-how do you know when your dog is ill,oos
-what dog breed sold the most in 2018,oos
-how much food should i feed my cat,oos
-what does it mean if i dream of falling off a building,oos
-is it bad to not remember your dreams,oos
-why do we dream,oos
-"do ducks eat meat, vegetables, or both",oos
-what is the friendliest breed,oos
-what do geese eat,oos
-do ducks sleep,oos
-are over the ear headphones better than in ear headphones,oos
-what brand of earphones is the best reviewed of 2019,oos
-are white and brown eggs any different,oos
-where do eggs come from,oos
-how can i easily replace a string on my guitar,oos
-how do you learn how to play electric violin,oos
-can you give me the standard tuning notes,oos
-what is the cheapest electric guitar,oos
-you want to know about current time now,oos
-what does it mean to have equality,oos
-what site publishes the most fake news,oos
-can you tell me some fake news,oos
-is cnn really fake news,oos
-why is there fake news,oos
+how do you know if a mushroom is edible,oos
+what month are mosquitoes the worst in the united states,oos
+how many points has the nyse gone up by this month,oos
+what's the alma mater of the man that started youtube,oos
+what's the most effective bug repellant,oos
+please save my draft for me so i can work on it later,oos
+please explain the catch rule to me,oos
+are trees absolutely necessary to survive,oos
+how many sides are in a hexagon,oos
+what is the solution to the grandfather paradox,oos
+what are my local news stations,oos
+what is the largest tree in the world,oos
+what are van gogh's best pieces,oos
+what is the highest earning game on atari,oos
+what's the best price on super smash bros ultimate right now,oos
+how old are rick ad morty,oos
+why do males want to be alpha,oos
+find out who won the governor's electionu,oos
+when was toyota created,oos
+what trees change color in autumn,oos
+is the patriarchy a valid concept,oos
+what is the formula for the surface area of a cylinder,oos
+how do i start my own marketing firm,oos
+what's a puffin's natural habitat,oos
+how many people live in taiwan,oos
+what is rhineland,oos
+what does it mean to be an alpha male,oos
+what's the most dominant scale in bluegrass,oos
+how do you get an oscar,oos
+can you tell me how to figure a percentage of a number,oos
+will there be a new season of true detective,oos
+what is the most popular airline,oos
+what did the president say todayu,oos
+when was hulu created,oos
+can you identify between poisonous and nonpoisonous mushroom,oos
+can you tell me when the bank closes,oos
+why are exponents preformed before multiplication in the order of operations,oos
+will you block non-kid friendly shows,oos
+what's the typical structure for writing a country song,oos
+where can i see art,oos
+is the bachelor on tonight,oos
+how many ways can i make $1 using standard us coins,oos
+get me the rates of hacking susceptibility for household in my area,oos
+how do i decide on a good first tattoo,oos
+who has the most subscribers on youtube,oos
+how much is an overdraft fee for bank,oos
+how expensive is an apple share,oos
+has anyone ever time traveled before,oos
+how much is the best vpn,oos
+what's the biggest saas marketing company in the united states,oos
+what cleaning product should i use on wood floors,oos
+when is the next nintendo direct,oos
+how is glue made,oos
+who is the current captain of this ship,oos
+what year was star trek released,oos
+when did camus die,oos
+what's the most difficult yoga pose to perform,oos
+how many seasons of rick and morty are there,oos
+how does a optical mouse work,oos
+where can i find the cruise control on my kia sportage 2010,oos
+give me the local newsi,oos
+put seatbelts on,oos
+which piano is best for classical,oos
+where do frogs come from,oos
+what year was saxaphone first played,oos
+how much money does radiohead earn a year,oos
+why can't you divide by zero,oos
+can you tell me who else is on my account,oos
+what's the dominant minor for the key of bflat,oos
+can you send an email to client b,oos
+are there any local stations covering the moral march in raleigh in februaryu,oos
+what is the most expensive price per share of any stock,oos
+what years did world war i occur,oos
+can you tell me something about the nfl,oos
+what's on for sports today,oos
+what were some of ben franklin's notable accomplishments,oos
+i have old model car,oos
+who is the scariest character in start trek,oos
+how many players are on the chicago bulls,oos
+what are some deals on amazon,oos
+which nations were on each side of the conflict in world war ii,oos
+can you tell me until what time the stock market is open,oos
+does my a/c filter need to be changed,oos
+should i invest in microsoft stock,oos
+what is the next football game,oos
+how do i change my billing address,oos
+what's a good resource to learn beginner's yoga,oos
+what team does eli mannign play for,oos
+is there a video-on-demand function (vod),oos
+what is the largest state in the us,oos
+do those i subscribe to have new videos,oos
+how long was the siege of leningrad,oos
+who's toledo's starting point guard for the next game,oos
+how do i change my flight,oos
+can you tell me what kind of benefits miliraty veterans receive,oos
+what city is the super bowl,oos
+rewind one minute,oos
+does my credit card have a balance transfer promotions currently going on,oos
+what are the pros and cons of credit cards,oos
+are deer indigenous to north america,oos
+is the stock market up or down today,oos
+can you show me my credit card number,oos
+which character is the most famous from titanic,oos
+are any justice league movies coming out,oos
+show me all contacts,oos
+can you list me tiger wood's stats,oos
+who is the coach of the chicago bulls,oos
+how many students attend ucsb,oos
+what is the most expensive building on wall street,oos
+how do i remove a coffee blemish,oos
+how do i find a common denominator,oos
+can you check my privacy online settting,oos
+can you read me the last text,oos
+are hawks domesticated or wild,oos
+a the bike looks very nice,oos
+what does my personality mean,oos
+can you give me instructions for tattoo aftercare,oos
+can you show me my 3-digit credit card verification number,oos
+please take me back to the year 1982,oos
+"who is the oscar who ""the oscar's"" is named after",oos
+is there overtime in college football,oos
+can you see the second right inside the fridge,oos
+who is radiohead,oos
+what animals have alpha males,oos
+what is saas marketing,oos
+what are some ways to prepare portabello mushrooms,oos
+when did the mls start,oos
+what years has korea been at war,oos
+i need to speak to customer service regarding my flight,oos
+what are bbc headlinesi,oos
+how do i stop the beeping noise when my seatbelt is off in my honda civic,oos
+how many points per game is lebron james averaging this season,oos
+how long is winter,oos
+how much is 1 share of aapl,oos
+how can i get involved in restaurant marketing,oos
+can you find instructions for removing a coffee stain from upholstery,oos
+show me an example of an algebraic expression,oos
+where was john denver born,oos
+any headlines from my areai,oos
+how many generations of pokemon are there now,oos
+what do the values of numbers mean non-numerically,oos
+how many planets have we discovered,oos
+am i using cruise control,oos
+what's the average battery life of an android phone,oos
+who are dan and dave,oos
+how many oscars did star wars films win,oos
+what year was the first pokemon game released,oos
+"if you're dishonorably discharged, are you still a veteran",oos
+what species of oak tree grows to be the tallest,oos
+what other personality type is most compatible with infjs,oos
+what color is the car,oos
+where is the dipstick,oos
+what's my horoscope today,oos
+what is the most popular sport in new york,oos
+what show am i watching,oos
+give me information about the soviet union's participation in world war 2,oos
+what's the order of the circle of fifths,oos
+what is the current market trend,oos
+where do squirrels's live,oos
+what's trending in 90s television shows on netflix,oos
+who was the first capcom character,oos
+what time does the louvre open,oos
+get me dwight howard shooting average,oos
+when was the theory of evolution first considered,oos
+when was kobe bryant born,oos
+what is the account number,oos
+how long do mosquito's live,oos
+what is slope of an inverted line,oos
+what was the area code of the phone number from that last scam call,oos
+what stage of evolution am i,oos
+what year was shawshank redemption released,oos
+what's the best time of year to plant a tree,oos
+when's the next movie starring thor set to come out,oos
+are semitic languages harder to learn than arabic languages,oos
+do people prefer summer over fall,oos
+how are my sports teams doing,oos
+is va treatment free for veterans,oos
+are you able to answer algebra equations,oos
+can you clock me in,oos
+what are puffins,oos
+where was salt created,oos
+can you forward this email to my boss,oos
+what's the runtime of all the lord of the rings movies combined,oos
+what's the fastest growing stock of 2019,oos
+how can i protect myself online,oos
+is patriarchy wrong,oos
+is the shutdown over,oos
+how do i open an online line of credit,oos
+what is the origin of the name michael,oos
+when do classes start,oos
+which state has the best airlines,oos
+where are the oscar's held,oos
+which marvel character has appeared in the most movies,oos
+how much has the market gone up or down so far in 2019,oos
+what kind of gas do i use,oos
+is k-12 education required outside of the united states,oos
+how many different types of robins are there,oos
+is it legal to breed and sell rabbits without a license,oos
+how many prime numbers are there under 100,oos
+what languages are considered semitic,oos
+when was the last worker's strike in amsterdam,oos
+which sport is the most fun,oos
+what are some ways to reduce spending,oos
+adjust windshield wipers,oos
+is time travel to the past theoretically possible,oos
+can you find out for me how many mushroom species are there,oos
+how fast does an airplane travel,oos
+where did the first tattoo originate,oos
+how do you store my card information,oos
+what do rabbits eat,oos
+what other nations were involved in the chinese trade war,oos
+is it worth investing in target,oos
+is it difficult to learn a semitic language,oos
+are tattoos safe to get,oos
+what is the formula for the circumference of a circle,oos
+what size wipers does this car take,oos
+who formulated the theory of relativity,oos
+how long do wire transfers take,oos
+what are the benefits of completing college,oos
+what is npr reporting on right now,oos
+where can i find lyrical inspiration for songwriting,oos
+what is apple's stock,oos
+what percentage of species display cold blooded traits,oos
+is there a car in my blind spot,oos
+who are some notable alumni of ucsd,oos
+"how can i protect myself from ""nigerian prince"" scams",oos
+what are some of picasso's most famous works,oos
+how the bikes looks,oos
+where did abraham lincoln live,oos
+can you restart my phone,oos
+can you help me study for a history exam,oos
+when was nintendo created,oos
+which stocks should i invest in to get at least 5% back on my investment this year,oos
+how win money in internet,oos
+find out for me what kind of benefits military veterans have after retirement,oos
+is yoga healthy,oos
+how can i get involved in yoga,oos
+how long do chipmunks usually live,oos
+how can i become an aerospace engineer,oos
+what is a semitic language,oos
+what do you call someone who was born in segovia,oos
+is it difficult to be successful on wall street,oos
+how many pokemon are there,oos
+what's the most popular tv show on netflix right now,oos
+how do the anti-lock brakes work,oos
+what's an otter's primary diet,oos
+how many people fall victim to internet scams per year,oos
+change my seat to an window seat for my flight on monday,oos
+please find the capital of pakistan and its population,oos
+when do the utah jazz play next,oos
